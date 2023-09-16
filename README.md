@@ -1,5 +1,5 @@
-### alx software engineering program
-## My first readme
+### alx software engineering program 📒
+## My first readme 📖
 # 0x03.Git
 
 📌For this project, we expect you to look at these concepts:
